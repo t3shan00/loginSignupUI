@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
     borderColor: '#DDD',
     borderRadius: 8,
     paddingHorizontal: 12,
-    backgroundColor: '#FFEFD5',
+    backgroundColor: '#FFF8E7',
     marginTop: 12,
   },
   inputError: {
